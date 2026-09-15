@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi, I'm Hamid Ghoreishi
+🎓 Computer Engineering Graduate | Software Engineering
+💻 Computer Science | Software Systems | Intelligent Technologies | Computing
+💡 Passionate about Research & Innovation
 
 <!--
 **GhoreishiHamid/GhoreishiHamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
