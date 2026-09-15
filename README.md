@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Hamid Ghoreishi
-🎓 Computer Engineering Graduate | Software Engineering
-💻 Computer Science | Software Systems | Intelligent Technologies | Computing
+## 👋 Hi, I'm Hamid Ghoreishi<br>
+🎓 Computer Engineering Graduate | Software Engineering<br>
+💻 Computer Science | Software Systems | Intelligent Technologies | Computing<br>
 💡 Passionate about Research & Innovation
 
 <!--
